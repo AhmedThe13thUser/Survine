@@ -1,2 +1,3 @@
 # Survine
-My hopefully my real game
+My Hopefully My Real Game
+Anyone Wants To Collaborate
